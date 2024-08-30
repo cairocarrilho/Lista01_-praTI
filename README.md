@@ -14,12 +14,19 @@ EX.
 ```bash
 node Exercicio01.js 
 ```
-  ### 2º Maneira -
-    com a extensao Code Runner instalada e so clica na figura da seta e o codigo ira roda também 
+
+### 2º Maneira -
+  com a extensao Code Runner instalada e so clica na figura da seta e o codigo ira roda também 
+   
 EX. .
-[Uploading[InternetShortcut]
+
+[Uploa[InternetShortcut]
 URL=file:///C:/Users/cairo/Desktop/Gravando%202024-08-30%20190654.mp4
- Gravando 2024-08-30 190654.mp4.url…]()
+IDList=
+HotKey=0
+IconFile=C:\Users\cairo\AppData\Local\Mozilla\Firefox\Profiles\2ix4781t.default-release\shortcutCache\C_Nf+PqksyJoEJHVfIxzw8cPLrDlDA0rtIMvBvs5QDM=.ico
+IconIndex=0
+ding Gravando 2024-08-30 190654.mp4.url…]()
 
 
 
