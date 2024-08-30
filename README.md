@@ -20,14 +20,6 @@ node Exercicio01.js
    
 EX. .
 
-[Uploa[InternetShortcut]
-URL=file:///C:/Users/cairo/Desktop/Gravando%202024-08-30%20190654.mp4
-IDList=
-HotKey=0
-IconFile=C:\Users\cairo\AppData\Local\Mozilla\Firefox\Profiles\2ix4781t.default-release\shortcutCache\C_Nf+PqksyJoEJHVfIxzw8cPLrDlDA0rtIMvBvs5QDM=.ico
-IconIndex=0
-ding Gravando 2024-08-30 190654.mp4.url…]()
-
 
 
 2. Após a instalação, no arquivo em que desejar utilizar a biblioteca, importe-a através da função **require**:
