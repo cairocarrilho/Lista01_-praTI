@@ -9,7 +9,8 @@
 
 ## Para rodar o codigo e usar
   ### 1º Maneira -
-    No terminal do IDE digite :  node <nome do arquivo junto com sua extensao>
+   No terminal do IDE digite :  node <nome do arquivo junto com sua extensao
+   
 EX. 
 ```bash
 node Exercicio01.js 
