@@ -16,15 +16,11 @@ node Exercicio01.js
 ```
 
 ### 2º Maneira -
-  com a extensao Code Runner instalada e so clica na figura da seta e o codigo ira roda também 
+  Com a extensao Code Runner instalada e so clica na figura da seta e o codigo ira roda também 
    
 EX.
 
 https://github.com/user-attachments/assets/3338748d-ce6c-4e87-ac78-2b2f7b6a18ed
 
 
-
-2. Após a instalação, no arquivo em que desejar utilizar a biblioteca, importe-a através da função **require**:
-```bash
-const prompt = require('prompt-sync')()
-```
+Com o codigo rodando so inserir as informacoes. 
